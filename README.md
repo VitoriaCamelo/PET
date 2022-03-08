@@ -1,2 +1,2 @@
 # PET
-Repositório para projetos desenvolvidos para o PET do curso de Ciência da Computação na UFPB
+Repositório para projetos desenvolvidos durante participação no PET do curso de Ciência da Computação na UFPB
